@@ -46,6 +46,7 @@ a:hover {
 }
 
 .four {
+  transition: background-color 400ms ease-out 200ms, font-size 800ms linear 100ms;
 }
 
 .five {

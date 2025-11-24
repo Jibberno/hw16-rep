@@ -50,5 +50,5 @@ a:hover {
 }
 
 .five {
-
+  transition: all ease-out 200ms;
 }
